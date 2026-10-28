@@ -1,0 +1,6 @@
+{
+  "name": "Anwar Editor - Studio Edit Foto Profesional",
+  "description": "Aplikasi edit foto profesional dengan 1000+ preset tone khusus Nikon D3400 + Tokina 11-16mm, edit tone terpisah subjek & latar belakang, peredam noise, koreksi lensa, dan ekspor kualitas tinggi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
